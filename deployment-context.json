@@ -1,0 +1,9 @@
+{
+  "appCode" : "testapp2",
+  "appVersion" : "1.0",
+  "envCode" : "pub-dev",
+  "gitRemoteUrl" : "https://github.com/361801081/C_testapp2.git",
+  "gitBranchName" : "testapp2-pub-dev",
+  "schemeCode" : "10001",
+  "schemeInstanceCode" : "4314770742730030080"
+}
